@@ -1,0 +1,262 @@
+[
+    {
+       "Date": "1 May 2021",
+       "Date_YMD": "2021-05-01",
+       "DailyConfirmed": 392576,
+       "TotalConfirmed": 19549555,
+       "DailyRecovered": 308688,
+       "TotalRecovered": 15981706,
+       "DailyDeceased": 3685,
+       "TotalDeceased": 214933
+    },
+    {
+       "Date": "2 May 2021",
+       "Date_YMD": "2021-05-02",
+       "DailyConfirmed": 370090,
+       "TotalConfirmed": 19919645,
+       "DailyRecovered": 300004,
+       "TotalRecovered": 16281710,
+       "DailyDeceased": 3423,
+       "TotalDeceased": 218356
+    },
+    {
+       "Date": "3 May 2021",
+       "Date_YMD": "2021-05-03",
+       "DailyConfirmed": 355769,
+       "TotalConfirmed": 20275414,
+       "DailyRecovered": 318910,
+       "TotalRecovered": 16600620,
+       "DailyDeceased": 3439,
+       "TotalDeceased": 221795
+    },
+    {
+       "Date": "4 May 2021",
+       "Date_YMD": "2021-05-04",
+       "DailyConfirmed": 382847,
+       "TotalConfirmed": 20658261,
+       "DailyRecovered": 337699,
+       "TotalRecovered": 16938319,
+       "DailyDeceased": 3786,
+       "TotalDeceased": 225581
+    },
+    {
+       "Date": "5 May 2021",
+       "Date_YMD": "2021-05-05",
+       "DailyConfirmed": 412624,
+       "TotalConfirmed": 21070885,
+       "DailyRecovered": 330718,
+       "TotalRecovered": 17269037,
+       "DailyDeceased": 3979,
+       "TotalDeceased": 229560
+    },
+    {
+       "Date": "6 May 2021",
+       "Date_YMD": "2021-05-06",
+       "DailyConfirmed": 414280,
+       "TotalConfirmed": 21485165,
+       "DailyRecovered": 328349,
+       "TotalRecovered": 17597386,
+       "DailyDeceased": 3923,
+       "TotalDeceased": 233483
+    },
+    {
+       "Date": "7 May 2021",
+       "Date_YMD": "2021-05-07",
+       "DailyConfirmed": 406901,
+       "TotalConfirmed": 21892066,
+       "DailyRecovered": 327675,
+       "TotalRecovered": 17925061,
+       "DailyDeceased": 4233,
+       "TotalDeceased": 237716
+    },
+    {
+       "Date": "8 May 2021",
+       "Date_YMD": "2021-05-08",
+       "DailyConfirmed": 403808,
+       "TotalConfirmed": 22295874,
+       "DailyRecovered": 386395,
+       "TotalRecovered": 18311456,
+       "DailyDeceased": 4092,
+       "TotalDeceased": 241808
+    },
+    {
+       "Date": "9 May 2021",
+       "Date_YMD": "2021-05-09",
+       "DailyConfirmed": 366455,
+       "TotalConfirmed": 22662329,
+       "DailyRecovered": 353777,
+       "TotalRecovered": 18665233,
+       "DailyDeceased": 3749,
+       "TotalDeceased": 245557
+    },
+    {
+       "Date": "10 May 2021",
+       "Date_YMD": "2021-05-10",
+       "DailyConfirmed": 329491,
+       "TotalConfirmed": 22991820,
+       "DailyRecovered": 355930,
+       "TotalRecovered": 19021163,
+       "DailyDeceased": 3879,
+       "TotalDeceased": 249436
+    },
+    {
+       "Date": "11 May 2021",
+       "Date_YMD": "2021-05-11",
+       "DailyConfirmed": 348555,
+       "TotalConfirmed": 23340375,
+       "DailyRecovered": 355398,
+       "TotalRecovered": 19376561,
+       "DailyDeceased": 4198,
+       "TotalDeceased": 253634
+    },
+    {
+       "Date": "12 May 2021",
+       "Date_YMD": "2021-05-12",
+       "DailyConfirmed": 362632,
+       "TotalConfirmed": 23703007,
+       "DailyRecovered": 352005,
+       "TotalRecovered": 19728566,
+       "DailyDeceased": 4128,
+       "TotalDeceased": 257762
+    },
+    {
+       "Date": "13 May 2021",
+       "Date_YMD": "2021-05-13",
+       "DailyConfirmed": 343005,
+       "TotalConfirmed": 24046012,
+       "DailyRecovered": 344676,
+       "TotalRecovered": 20073242,
+       "DailyDeceased": 4000,
+       "TotalDeceased": 261762
+    },
+    {
+       "Date": "14 May 2021",
+       "Date_YMD": "2021-05-14",
+       "DailyConfirmed": 326256,
+       "TotalConfirmed": 24372268,
+       "DailyRecovered": 353200,
+       "TotalRecovered": 20426442,
+       "DailyDeceased": 3889,
+       "TotalDeceased": 265651
+    },
+    {
+       "Date": "15 May 2021",
+       "Date_YMD": "2021-05-15",
+       "DailyConfirmed": 310757,
+       "TotalConfirmed": 24683025,
+       "DailyRecovered": 362547,
+       "TotalRecovered": 20788989,
+       "DailyDeceased": 4077,
+       "TotalDeceased": 269728
+    },
+    {
+       "Date": "16 May 2021",
+       "Date_YMD": "2021-05-16",
+       "DailyConfirmed": 281837,
+       "TotalConfirmed": 24964862,
+       "DailyRecovered": 378526,
+       "TotalRecovered": 21167515,
+       "DailyDeceased": 4098,
+       "TotalDeceased": 273826
+    },
+    {
+       "Date": "17 May 2021",
+       "Date_YMD": "2021-05-17",
+       "DailyConfirmed": 263021,
+       "TotalConfirmed": 25227883,
+       "DailyRecovered": 422391,
+       "TotalRecovered": 21589906,
+       "DailyDeceased": 4334,
+       "TotalDeceased": 278160
+    },
+    {
+       "Date": "18 May 2021",
+       "Date_YMD": "2021-05-18",
+       "DailyConfirmed": 267246,
+       "TotalConfirmed": 25495129,
+       "DailyRecovered": 389758,
+       "TotalRecovered": 21979664,
+       "DailyDeceased": 4529,
+       "TotalDeceased": 282689
+    },
+    {
+       "Date": "19 May 2021",
+       "Date_YMD": "2021-05-19",
+       "DailyConfirmed": 276193,
+       "TotalConfirmed": 25771322,
+       "DailyRecovered": 369005,
+       "TotalRecovered": 22348669,
+       "DailyDeceased": 3877,
+       "TotalDeceased": 286566
+    },
+    {
+       "Date": "20 May 2021",
+       "Date_YMD": "2021-05-20",
+       "DailyConfirmed": 259242,
+       "TotalConfirmed": 26030564,
+       "DailyRecovered": 357173,
+       "TotalRecovered": 22705842,
+       "DailyDeceased": 4209,
+       "TotalDeceased": 290775
+    },
+    {
+       "Date": "21 May 2021",
+       "Date_YMD": "2021-05-21",
+       "DailyConfirmed": 257299,
+       "TotalConfirmed": 26287863,
+       "DailyRecovered": 357625,
+       "TotalRecovered": 23063467,
+       "DailyDeceased": 4194,
+       "TotalDeceased": 294969
+    },
+    {
+       "Date": "22 May 2021",
+       "Date_YMD": "2021-05-22",
+       "DailyConfirmed": 240897,
+       "TotalConfirmed": 26528760,
+       "DailyRecovered": 355138,
+       "TotalRecovered": 23418605,
+       "DailyDeceased": 3739,
+       "TotalDeceased": 298708
+    },
+    {
+       "Date": "23 May 2021",
+       "Date_YMD": "2021-05-23",
+       "DailyConfirmed": 222834,
+       "TotalConfirmed": 26751594,
+       "DailyRecovered": 302253,
+       "TotalRecovered": 23720858,
+       "DailyDeceased": 4454,
+       "TotalDeceased": 303162
+    },
+    {
+       "Date": "24 May 2021",
+       "Date_YMD": "2021-05-24",
+       "DailyConfirmed": 195857,
+       "TotalConfirmed": 26947451,
+       "DailyRecovered": 326737,
+       "TotalRecovered": 24047595,
+       "DailyDeceased": 3509,
+       "TotalDeceased": 306671
+    },
+    {
+       "Date": "25 May 2021",
+       "Date_YMD": "2021-05-25",
+       "DailyConfirmed": 208992,
+       "TotalConfirmed": 27156443,
+       "DailyRecovered": 295264,
+       "TotalRecovered": 24342859,
+       "DailyDeceased": 4160,
+       "TotalDeceased": 310831
+    },
+    {
+       "Date": "26 May 2021",
+       "Date_YMD": "2021-05-26",
+       "DailyConfirmed": 211275,
+       "TotalConfirmed": 27367718,
+       "DailyRecovered": 282924,
+       "TotalRecovered": 24625783,
+       "DailyDeceased": 3841,
+       "TotalDeceased": 314672
+    }
+ ]

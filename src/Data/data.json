@@ -1,0 +1,74 @@
+{
+    "statewise": [
+        {
+            "active": "62506",
+            "confirmed": "794912",
+            "deaths": "9665",
+            "deltaconfirmed": "0",
+            "deltadeaths": "0",
+            "deltarecovered": "0",
+            "lastupdatedtime": "25/05/2021 20:33:08",
+            "migratedother": "0",
+            "recovered": "722741",
+            "state": "Gujarat",
+            "statecode": "GJ",
+            "statenotes": ""
+        },
+        {
+            "active": "314368",
+            "confirmed": "5626155",
+            "deaths": "90349",
+            "deltaconfirmed": "0",
+            "deltadeaths": "0",
+            "deltarecovered": "0",
+            "lastupdatedtime": "25/05/2021 21:24:16",
+            "migratedother": "2670",
+            "recovered": "5218768",
+            "state": "Maharashtra",
+            "statecode": "MH",
+            "statenotes": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin."
+        },
+        {
+            "active": "69828",
+            "confirmed": "1677508",
+            "deaths": "19519",
+            "deltaconfirmed": "0",
+            "deltadeaths": "0",
+            "deltarecovered": "0",
+            "lastupdatedtime": "25/05/2021 21:24:19",
+            "migratedother": "0",
+            "recovered": "1588161",
+            "state": "Uttar Pradesh",
+            "statecode": "UP",
+            "statenotes": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases."
+        },
+        {
+            "active": "87539",
+            "confirmed": "923860",
+            "deaths": "7911",
+            "deltaconfirmed": "0",
+            "deltadeaths": "0",
+            "deltarecovered": "0",
+            "lastupdatedtime": "25/05/2021 20:33:15",
+            "migratedother": "0",
+            "recovered": "828410",
+            "state": "Rajasthan",
+            "statecode": "RJ",
+            "statenotes": ""
+        },
+        {
+            "active": "21739",
+            "confirmed": "1419986",
+            "deaths": "23565",
+            "deltaconfirmed": "0",
+            "deltadeaths": "0",
+            "deltarecovered": "0",
+            "lastupdatedtime": "25/05/2021 17:14:02",
+            "migratedother": "0",
+            "recovered": "1374682",
+            "state": "Delhi",
+            "statecode": "DL",
+            "statenotes": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change."
+        }
+    ]
+}
